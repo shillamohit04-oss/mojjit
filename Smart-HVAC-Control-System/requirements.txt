@@ -1,0 +1,23 @@
+# Smart HVAC Control System - Dependencies
+# Python 3.9+
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Database
+# sqlite3 is built-in
+
+# Machine Learning (lightweight)
+scikit-learn>=1.3.0
+
+# Utilities
+python-dateutil>=2.8.0
